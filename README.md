@@ -115,3 +115,10 @@
 * Contains Odia News classification Dataset and scripts which were used to scrape Odia news websites
 * Contains Language Model with Perplexity ~27
 * Contains News Classification Model with 95% accuracy
+
+### Marathi
+[NLP for Marathi](https://github.com/goru001/nlp-for-marathi)
+* Contains Wikipedia Articles Dataset (85,537 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Marathi News classification Dataset and scripts which were used to scrape Marathi news websites
+* Contains Language Model with Perplexity ~18
+* Contains News Classification Model with 91% accuracy
